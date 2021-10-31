@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background: linear-gradient (#E1BEE7, #90CAF9);
+    background-color:no-repeat;
+}    
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+p {
+    font-size: 18px;
+    color: #6A1B9A;
+}
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
